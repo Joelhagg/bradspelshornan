@@ -4,9 +4,10 @@
 
 <h4> Live at https://joelhagg.github.io/bradspelshornan/ </h4>
 
-<h3> Arbete under kursen Grafiska verktyg - Design är gjord av en klasskamrat i Figma och uppgiften var att koda den så likt som möjligt 😅 <br />
-Det största arbetet var att få sidan responsiv i olika lägen
-</h3>
+<h3> Arbete under kursen Grafiska verktyg - Design är gjord av en klasskamrat i Figma och uppgiften var att koda den så likt som möjligt 😅</h3>
+   
+<h4><i>Det största arbetet var att få sidan responsiv i olika lägen</i></h4>
+
 
 
 <br>
